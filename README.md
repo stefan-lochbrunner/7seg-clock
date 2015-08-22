@@ -2,4 +2,4 @@ Clock made out of seven segment displays and shift registers I had lying around 
 
 Inspiration for this project: https://hackaday.io/project/6568-tiny7
 
-See https://github.com/stefan-lochbrunner/LUA for required libraries.
+Requires getTime, sevenSeg and shiftOut libraries from [**my libraries repo**](https://github.com/stefan-lochbrunner/LUA).
